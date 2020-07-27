@@ -1,0 +1,15 @@
+{
+  "name": "kafka-node-app",
+  "version": "1.0.0",
+  "description": "Demo of a real-time data streaming app using Node.js and Kafka",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Rolando Sanchez Jara",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "kafka-node": "^5.0.0"
+  }
+}
