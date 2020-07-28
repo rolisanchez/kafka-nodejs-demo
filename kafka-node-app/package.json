@@ -4,7 +4,8 @@
   "description": "Demo of a real-time data streaming app using Node.js and Kafka",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node producer.js"
   },
   "author": "Victor Rolando Sanchez Jara",
   "license": "ISC",
